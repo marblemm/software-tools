@@ -1,0 +1,23 @@
+Visual Assist X Version 10.9.2476 Cracked By 0xC5
+
+0.(重要) 如果之前注册安装过VAX的，请先运行 "..\\VAX垃圾注册信息全自动清理\\Trial-Reset.exe" 对之前注册信息进行清理.
+
+1.安装 VAX
+
+2.将附件中的 oledlg.dll 复制到VS各个版本的主程序(devenv.exe)所在的目录.
+
+3.启动VS，进入VAX的配置项来输入下面的key完成注册：
+
+Key1:
+Cracked_By_Cr39_0xc5(i1tao) (255-user license) Support ends 2029.1.1
+00001R-4AK2FM-EZ4NC1-R3NGD9-AE98BE-XWCZ8E-HA59TD-E5UJBE-JUKWMD-E3KTC9-7WJAWR
+
+
+key2:
+Cracked_By_Cr39_0xc5(i1tao) (255-user license) Support ends 2029.1.1
+00001R-4AK2FM-EZ4NC1-R3NMFW-W5PKG4-7CZFJW-PE9PV8-WRQJKU-1QWPTK-AVCE77-WG9BCM
+
+
+
+4.汉化 （可选）
+替换VA安装目录中的 “VAOpsWin64.dll” 
